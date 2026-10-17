@@ -8,8 +8,6 @@
 
 ```
 
-> _"genius, prodigy, gifted dev. not for hire"_
-
 ## main projects
 
 - The **uMIS** Social Platform @ [umis.juanvel400.com](https://umis.juanvel400.com) / [app.umis.juanvel400.com](https://app.umis.juanvel400.com)
@@ -40,14 +38,15 @@
 - **xpt** on the [AUR](https://aur.archlinux.org/packages/xpt)
 - **rsml** on [PyPI](https://pypi.org/project/rsml/)
 - **updv** on [PyPI](https://pypi.org/project/updv/)
+- **rsml** on [GHCR](https://github.com/juanvel4000/rsml/pkgs/container/rsml)
 
 ## websites
 
 - Software Distribution Server: always up to date tarballs for various projects @ [dl.juanvel400.com](https://dl.juanvel400.com)
 - LiveTools: instances of LiveMD and LiveJSON @  [livetools.juanvel400.com](https://livetools.juanvel400.com)
-- BD: An instance of bd @ [bd.juanvel400.com](https://bd.juanvel400.com)
+- bd.juanvel400.com: An instance of bd @ [bd.juanvel400.com](https://bd.juanvel400.com)
 - PackageTracker: EBS formulae for various system packages and projects @ [tracker.hxs.juanvel400.com](https://tracker.hxs.juanvel400.com/releases.json)
-- juanvel400.com: same content as this file but cleaner @ [juanvel400.com](https://juanvel400.com)
+- juanvel400.com: landing page @ [juanvel400.com](https://juanvel400.com)
 
 ## contact
 
