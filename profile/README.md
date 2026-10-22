@@ -15,7 +15,7 @@
 - The **usc** link-shortener: tiny CGI link shortener @ [sr.ht/~juanvel400/usc](https://sr.ht/~juanvel400/usc)
 - **R**eally **S**imple **M**ailing **L**ists @ [juanvel4000/rsml](https://github.com/juanvel4000/rsml)
 - **shush**: experimental POSIX `sh` implementation @ [sr.ht/~juanvel400/shush](https://sr.ht/~juanvel400/shush)
-- **hbase**: experimental POSIX user utilities implementation @ [sr.ht/~juanvel400/hbase](https://sr.ht/~juanvel400/hbase)
+- **pxbase**: experimental POSIX core user utilities implementation @ [sr.ht/~juanvel400/pxbase](https://sr.ht/~juanvel400/pxbase)
 - **adam**: SysV-inspired init system @ [sr.ht/~juanvel400/adam](https://sr.ht/~juanvel400/adam)
 - **updv**: tiny version string updater @ [juanvel4000/updv](https://github.com/juanvel4000/updv)
 - **hello**: C-based hello world implementation @ [sr.ht/~juanvel400/hello](https://sr.ht/~juanvel400/hello)
